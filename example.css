@@ -1,0 +1,19 @@
+p {
+    font-weight: bolder;
+}
+
+h1 {
+    color: red;
+}
+
+span {
+    color: blueviolet
+}
+
+.body {
+    background-color: black;
+}
+
+#main {
+    background-color: brown;
+}
